@@ -1,0 +1,31 @@
+body{
+	font-family: : arial;
+text-align : center;
+background: lightpink}
+
+
+h1 {color: purple;
+	font-family: arial;}
+h2 {color: purple}
+
+ol,h3{
+	text-align: left;
+}
+h3 {text-align: center}
+
+.avatar {
+	border-radius: 150px;
+	box-shadow: 10px 10px 10px black;
+}
+.sug{
+	width: 150px}
+
+.cadre{
+	border: solid 10px purple;
+	margin: 50px;
+	padding: 50px;
+	border-radius: 5px;
+	background: white;
+
+}
+
